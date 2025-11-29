@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Oak Coffee Table",
+    "price": 450000,
+    "description": "Handcrafted oak coffee table with a natural finish. Perfect for a cozy living room.",
+    "images": ["/images/table1.jpg"],
+    "stock": 1,
+    "status": "available",
+    "category": "Furniture"
+  },
+  {
+    "id": "2",
+    "name": "Walnut Cutting Board",
+    "price": 80000,
+    "description": "Solid walnut cutting board, treated with food-safe oil. Durable and elegant.",
+    "images": ["/images/board1.jpg"],
+    "stock": 5,
+    "status": "available",
+    "category": "Kitchen"
+  },
+  {
+    "id": "3",
+    "name": "Maple Stool",
+    "price": 120000,
+    "description": "Simple and sturdy maple stool. Minimalist design fitting any space.",
+    "images": ["/images/stool1.jpg"],
+    "stock": 0,
+    "status": "sold-out",
+    "category": "Furniture"
+  }
+]
